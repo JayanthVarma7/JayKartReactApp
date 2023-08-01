@@ -7,7 +7,7 @@ import Checkout from "./components/Checkout";
 import Thanks from "./components/Thanks";
 
 export const config = {
-  endpoint: `https://jaykartfrontend.herokuapp.com/api/v1`,
+  endpoint: `https://jaykart.onrender.com/api/v1`,
 };
 
 
